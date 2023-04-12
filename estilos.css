@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+    font-size: large;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: brown;
+    margin: 30px;
+}
+.estilorojo{
+    color: red;
+}
+.estiloazul{
+    color: blue;
+}
+.foto{
+    border-radius: 170px;
+    width: 171px;
+    height: 169px;
+}
+nav{
+    background: blue;
+}
+nav ul{
+    display: flex;
+    
+}
+ul li{
+    DATOS DE FIGMA
+margin: 20PX;
+padding: 10px;
+}
+
+ul li a{
+    color: aqua;
+    text-decoration: none;
+}
+
+
+footer{
+    background: purple;
+    bottom:0 ;
+}
+.contenedorfototexto{
+    display: flex;
+}
+.contenedortexto{
+    DATOS DEL FIGMA
+    background: palegreen;
+    DATOS DEL FIGMA
+}
